@@ -11,7 +11,7 @@ print("szám: "+ str(a))
 # ha a szám negatív akkor szám*(-1) különben önmaga
 if a<0 :
     print("abs: "+str(a*(-1)))
-else:
+else: # a>=0
     print("abs: "+str(a))
 
 # Írassa ki a szám gyökét!
