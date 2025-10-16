@@ -190,3 +190,4 @@ else:
     print("Nincs közte "+str(szamjegy)+"-re végződő")
 
 
+
